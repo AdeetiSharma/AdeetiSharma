@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aditi Sharma 👋</h1>
-<h3 align="center">Software Developer | Backend & AI-Integrated Applications</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Master's+Student+%40+Memorial+University;Backend+Development+%7C+API+Integration;AI-Assisted+Application+Development;Turning+Real-World+Workflows+into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Master's+Student+%40+Memorial+University;Software+Development+%7C+Backend+Development;Building+Practical+Software+Projects;Learning+%26+Exploring+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
